@@ -1,0 +1,13 @@
+{
+  "name": "fabric-pos-backend",
+  "version": "1.0.0",
+  "description": "Curtain & Fabric Management System API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": ["pos", "fabric", "inventory"],
+  "author": "Your Name",
+  "license": "ISC"
+}
